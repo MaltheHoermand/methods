@@ -1,6 +1,6 @@
 <?php
-require_once "classes/PrintMessage.php";
+require_once "classes/PrintArgument.php";
 
-$printMessage = new PrintMessage();
+$printMessage = new PrintArgument();
 
-$printMessage->print_message("Dette er min første method");
+$printMessage->print_message("Dette er min anden method");

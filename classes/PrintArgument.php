@@ -1,5 +1,5 @@
 <?php
-class PrintMessage {
+class PrintArgument {
 
 
     function print_message($message) {
